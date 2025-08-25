@@ -43,7 +43,7 @@ const characterImages = {
     left: "1000px"
   },
     "Andy": {
-    src: "assets/previews/andy.png",
+    src: "assets/previews/andy.webp",
     width: "650px",
     top: "-10px",
     left: "1000px"
